@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wang Yiyuan"
-description              : "Wang Yiyuan's Academic Homepage. Ph.D. Student at Hong Kong Baptist University (HKBU). Research interests include 3D Reconstruction, Vision-Language Models, Test-Time Training, and World Models. "
+description              : "Wang Yiyuan's Academic Homepage."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Wang Yiyuan"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Student at Hong Kong Baptist University (HKBU)"
   location         : "Hong Kong, China"
