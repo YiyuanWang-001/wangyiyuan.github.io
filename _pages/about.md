@@ -52,20 +52,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 
-- *2025.09 - 2029.06 (Expected)*, **Ph.D. Student**, School of Computer Science and Technology, **Hong Kong Baptist University (HKBU)**. GPA: **3.8 / 4.0**
-- *2021.09 - 2025.06*, **B.Eng. in Computer Science and Technology**, College of Computer Science and Technology, **Beijing University of Technology (BJUT)**. GPA: **3.5 / 4.0**
-
+- *2025.09 - 2029.06 (Expected)*, **Ph.D. Student**, School of Computer Science and Technology, **Hong Kong Baptist University (HKBU)**. 
+- *2021.09 - 2025.06*, **B.Eng. in Computer Science and Technology**, College of Computer Science and Technology, **Beijing University of Technology (BJUT)**. 
 # 💻 Research Internships
 
 - *2025.03 - 2025.06*, **DIGAI Lab**, The Hong Kong University of Science and Technology (Guangzhou) (**HKUST-GZ**).
 - *2024.05 - 2024.08*, **Human-Computer Interaction Laboratory**, The Chinese University of Hong Kong, Shenzhen (**CUHK-SZ**).
 - *2022.12 - 2025.02*, **DMS Artificial Intelligence Laboratory**, Beijing University of Technology (**BJUT**).
-# 💬 Invited Talks
-<!--
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
-
-<!--
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
